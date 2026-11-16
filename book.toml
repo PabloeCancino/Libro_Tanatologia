@@ -1,0 +1,16 @@
+[book]
+title = "Darle sentido a lo perdido"
+authors = ["Dr. Pablo Eduardo Cancino Marentes"]
+description = "Manual de tanatología pastoral que une la Biblia y los estudios del duelo para nombrar la pérdida, comprender su proceso y reconocer cuándo se estanca. Desde el Cristo que lloró en Betania, guía a reconfigurar el vínculo, reconstruir el sentido y abrazar la esperanza de la resurrección, y forma a quienes acompañan a otros en su dolor."
+language = "es"
+src = "src"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/PabloeCancino/Libro_Tanatologia"
+edit-url-template = "https://github.com/PabloeCancino/Libro_Tanatologia/edit/main/{path}"
+
+[output.html.search]
+enable = true
+limit-results = 20
